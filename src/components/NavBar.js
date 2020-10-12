@@ -89,7 +89,7 @@ const NavBar = () => {
 							<ListItemIcon className={ classes.listItem }>
 									<Email />
 							</ListItemIcon>
-							<ListItemText className={ classes.listItem } primary='snaikeee@abv.bg'/>
+							<ListItemText className={ classes.listItem } primary='veskostoyanovv@abv.bg'/>
 						</ListItem>
 				</List>
       </Box>
