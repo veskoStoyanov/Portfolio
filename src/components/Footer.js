@@ -7,7 +7,6 @@ import {
 
 import GitHubIcon from '@material-ui/icons/GitHub';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import LinkedInIcon2 from '@material-ui/icons/LinkedIn';
 
 const useStyles = makeStyles({
 	root: {
